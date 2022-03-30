@@ -13,6 +13,8 @@
       required
     />
 
+    <br />
+
     <label for="psw"><b>Password</b></label>
     <input
       type="password"
