@@ -23,6 +23,7 @@
       id="psw"
       required
     />
+    <br />
 
     <label for="psw-repeat"><b>Repeat Password</b></label>
     <input
